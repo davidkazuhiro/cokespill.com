@@ -1,0 +1,56 @@
+/*Selectors*/
+body {background-color: #68C; color: black; overflow: scroll}
+img {border-width: 0px}
+a {text-decoration: none; color: blue}
+h1, h2, h3 {margin-left: 10px;}
+p {margin: 10px 10px 10px 0px; text-indent: 1em;}
+
+/*Contextual Selectors*/
+div p {margin-left: 1em}
+
+/*Classes*/
+div.header {/* Yet to be defined */}
+div.body {text-align: center}
+div.menuHover a:hover {background-color: gray; color: black}/* hover effect for menu */
+div.content {
+		text-align: left;
+		background-color: white;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: -1px;
+		width: 800px;
+		border-style: solid;
+		color: black}
+div.menuHover {
+			background-color: #FFA500;
+			margin-left: auto;
+			margin-right: auto;
+			width: 800px;
+			border-style: solid;
+			border-width: 1px}
+p.pmenu {text-align: right; margin: 0px 5px}
+
+/*Generic Classes*/
+.indent {text-indent: 5%}
+
+
+		div.news {
+				position: relative;
+				left: 15px;
+				border-style: solid;
+				border-width: 0px;
+				width: 380px;
+				padding-bottom: 10px}
+		div.bio {
+				position: relative;
+				left: 400px;
+				margin-top: -190px;
+				margin-bottom: -200px;
+				border-style: solid;
+				border-width: 0px;
+				width: 380px;
+				padding-bottom: 10px}
+		div.links {border-style: solid; border-width: 0px; position: relative; top: 300px}
+		span.myspace {position: relative; left: 10em}
+		span.purevolume{position: relative; left: 50%}
+		span.cdbabyimage {}

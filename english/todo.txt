@@ -1,0 +1,20 @@
+Creating Heading Bar
+	Band Photo
+	Graphics
+Menu always on top, scroll down doesn't get rid of it
+Margins
+Add Each member to menu
+Layout for
+	Main page
+	Bio
+	Album
+	Happenings
+	Contact
+	Links
+	Band Members
+Compose:
+	Cokespill Bio
+	Jeremy bio
+	Matthew bio
+	Jonny bio
+	David bio
